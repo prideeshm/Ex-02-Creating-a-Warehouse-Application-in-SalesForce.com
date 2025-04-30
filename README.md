@@ -1,5 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
-
+NAME:PRIDEESH.M
+REGISTER NO:212223040154
 ## AIM:
 To create a warehouse application in salesforce.com
 
